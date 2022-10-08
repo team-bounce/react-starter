@@ -1,0 +1,21 @@
+.divApproot {
+  background-color: transparent;
+  color: red;
+}
+
+.font-chilanka {
+  font-family: 'Chilanka';
+}
+
+.font-droidsans {
+  font-family: 'Droid Sans';
+}
+
+.font-roboto {
+  font-family: 'Roboto';
+}
+
+div {
+    margin: 4px;
+    padding: 4px;
+}
