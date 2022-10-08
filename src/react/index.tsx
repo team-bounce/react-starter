@@ -31,7 +31,7 @@ export class Approot extends React.Component<oProps, oState> {
       <React.Fragment>
         <div className="divApproot">
           <div className="font-chilanka">
-            <h3>Welcome to react-starter</h3>
+            <h3>Welcome to <strong>react-starter</strong> by team-bounce</h3>
             <p>...this is font Chilanka</p>
           </div>
           <div className="font-droidsans">
