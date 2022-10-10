@@ -1,7 +1,7 @@
 ## team-bounce
 ## React Starter Project
 
-##### Git: git@github.com:St8ck3rs/eckoh_reactjs.git
+##### Git: git@github.com:team-bounce/react-starter.git
 ##### Tutorial: https://dev.to/alekseiberezkin/setting-up-react-typescript-app-without-create-react-app-oph
 
 ### How to use...
