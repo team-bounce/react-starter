@@ -1,4 +1,5 @@
-## Neil's React Starter Project
+## team-bounce
+## React Starter Project
 
 ##### Git: git@github.com:St8ck3rs/eckoh_reactjs.git
 ##### Tutorial: https://dev.to/alekseiberezkin/setting-up-react-typescript-app-without-create-react-app-oph
@@ -30,5 +31,5 @@ create src/css/index.css and import into src/index.tsx
 git init  
 git commit -m "first commit"  
 git branch -M master  
-git remote add origin git@github.com:St8ck3rs/eckoh_reactjs.git  
+git remote add origin git@github.com:team-bounce/react-starter.git  
 git push -u origin master  
